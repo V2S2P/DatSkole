@@ -1,0 +1,20 @@
+String Name = "Valdemar";// Skriv den rette datatype og et passende variabelnavn foran denne værdi: String teacherName= "Tess Løvgreen"
+println(Name);
+int NumA = 365;
+println(NumA);
+String By = "København";
+println(By);
+boolean Happy = true;
+println(Happy);
+int multiply = 60*24;
+println(multiply);
+float comma = 22.12;
+println(comma);
+String intro = "Hej, jeg heddder "+Name;
+println(intro);
+boolean sad = false;
+println(sad);
+float commaWhole = 2.2 + 33;
+println(commaWhole);
+char S = 'S';
+println(S);
